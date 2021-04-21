@@ -5,7 +5,7 @@
 - Vikhil "5 Star Man" Parshotam
 - Andrew Barrett
 - Harry Tindale
-- Tom Samson
+- Tom Samson -- added upstream
 - Beatriz Manzano
 - Jack Parry
 - Alex Coates
@@ -14,3 +14,6 @@
 - Matt Coleman
 - Dhruv Patel (hahaha ^^)
 - Jalal Saadat
+- Amir Abdur-Rahman
+- Keval Shah
+- Arman Khan
